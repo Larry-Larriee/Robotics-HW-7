@@ -1,9 +1,9 @@
 public class SuperHero {
     
-    private int age = 0;
-    private String name = "Your mom";
-    private String superPower = "Your mom";
-    private String weakness = "Your dad";
+    private int age;
+    private String name;
+    private String superPower;
+    private String weakness;
 
     public SuperHero(){ // Two constructors, one with no parameters and one with all parameters
         age = 0;
